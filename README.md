@@ -1,2 +1,2 @@
-# gitintroducao1
+# gitintroducao
 Introdução ao Git
